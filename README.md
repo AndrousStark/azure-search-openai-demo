@@ -299,3 +299,26 @@ join the Azure AI Foundry Developer Community:
 ### Note
 
 >Note: The PDF documents used in this demo contain information generated using a language model (Azure OpenAI Service). The information contained in these documents is only for demonstration purposes and does not reflect the opinions or beliefs of Microsoft. Microsoft makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information contained in this document. All rights reserved to Microsoft.
+
+---
+
+## Maintained By
+
+<div align="center">
+
+### **[Aniruddh Atrey](https://www.aniruddhatrey.com)**
+
+**AI Engineer | Cybersecurity Expert | SaaS Entrepreneur**
+
+MS Computer Science, University of Florida | Stanford ML Certified
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aniruddhatrey.com-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aniruddhatrey.com)
+[![Hire Me](https://img.shields.io/badge/Hire_Me-Services-9933ff?style=for-the-badge&logo=rocket&logoColor=white)](https://www.aniruddhatrey.com/services)
+[![MetaMinds](https://img.shields.io/badge/MetaMinds-AI_Agency-00ff88?style=for-the-badge&logo=brain&logoColor=white)](https://metaminds.firm.in)
+
+**Want to build an AI-powered RAG solution or chatbot?**
+[**aniruddhatrey.com**](https://www.aniruddhatrey.com) | [**metaminds.firm.in**](https://metaminds.firm.in)
+
+*Co-Founder & COO @ [F1Jobs.io](https://f1jobs.io) | Founder & CTO @ [MetaMinds](https://metaminds.firm.in)*
+
+</div>
